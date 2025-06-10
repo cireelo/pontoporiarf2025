@@ -1,2 +1,11 @@
 # pontoporiarf2025
-"Exploring franciscana dolphin (pontoporia blainvillei) bioacoustic patterns using machine learning on click logger data"
+Dear all,
+In this repository is the code, data, tables, and supplementary material to our manuscript "Exploring franciscana dolphin (_Pontoporia blainvillei_) bioacoustic patterns using machine learning on click logger data", submitted to the Journal of the Acoustic Society of America.
+This study focuses on the acoustic ecology of Pontoporia blainvillei, which is one of the most endangered coastal marine mammals in the Southwestern Atlantic, through the lens of machine learning. Using passive acoustic monitoring (PAM) and Random Forest models, we investigated biologically relevant variations in narrowband high-frequency (NBHF) pulsed sounds produced by individuals of different age groups and behavioral contexts, in two distinct environments. Our findings highlight the species’ ability to modulate echolocation click parameters such as frequency range and train duration in association with foraging behavior, as well as diel activity cycles. The results validate the use of PAM and machine learning for extracting ecological and behavioral information from odontocete pulsed sounds data.
+One of the central challenges in bioacoustics is to record, analyze, and interpret animal signals in reproducible and biologically coherent ways. In species like P. blainvillei, for which visual monitoring is especially difficult, PAM is a crucial tool. This study demonstrates the potential of modern analytical tools, such as Random Forests, to support behavioral and ecological inference, strengthen species-specific acoustic protocols, and enhance long-term, reproducible research.
+Beyond its technical contribution, this manuscript reflects the collaborative nature of science and the cumulative progress in bioacoustics. It builds upon previous work with C-PODs and odontocete click detection while contributing new perspectives and questions. We hope it will inform not only ongoing conservation efforts, but also the training and future research of young scientists working with acoustic data in ecological contexts.
+We want the code to be useful to other researchers facing similar endeavors. 
+Thank you for your time and consideration. We look forward to hearing from you whenever you use or consult our material.
+Do not hesitate to reach out if you believe we can be of help.
+Sincerely,
+João Miguel Neri Camilo Moreira.
